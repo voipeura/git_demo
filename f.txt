@@ -1,6 +1,5 @@
 Lisäsin tämän githubissa
-<<<<<<< Updated upstream
 Tätä tekstiä ei ole paikallisessa työhakemistossa
-=======
 Tätä teksitä ei ole githubissa
->>>>>>> Stashed changes
+Lisäsin tämän githubissa
+Lisäsin tämän paikallisessa työhakemistossa
